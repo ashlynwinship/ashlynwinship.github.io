@@ -12,6 +12,6 @@ My research interests are in the areas of bilingual syntax, syntax and morpholog
 
 When I'm not studying linguistics, I enjoy reading fantasy, training for triathlons, and getting frustrated at video games.
 
-### Contact me
+### Contact me:
 
 [alw329@cornell.edu](mailto:alw329@cornell.edu)
