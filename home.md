@@ -1,7 +1,7 @@
 ---
 layout: homepage
 title: Home
-
+permalink: Home
 ---
 
 # Ashlyn Winship
