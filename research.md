@@ -6,7 +6,7 @@ permalink: /research/
 
 ## Past Projects
 
-<b>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</b>
+<b>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</b> 
 
 This research project investigated how codeswitching (CS) functions for Spanish-English bilingual speakers in utterances that feature noun phrase (NP) ellipsis and <em>one</em>-substitution, with particular focus on how the gender assignment rules of each language apply with regards to the elided and substituted material. Previous research has shown that when a switch occurs within an ellipsis site, the language of the elided material can be inferred from case markers on the remnants, and that further research on how gender markers function similarly is necessary (González-Vilbazo & Ramos, 2018). In addition to NP ellipsis, this paper investigated how gender markers can reveal information about the substituted material when a switch occurs within a <em>one</em>-substitution construction. 
 
