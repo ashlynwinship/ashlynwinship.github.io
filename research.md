@@ -4,6 +4,9 @@ title: Research
 permalink: /research/
 ---
 
+## CV
+<a href="https://docs.google.com/document/d/1usk4PXQIpN9Liqq2JcD_vfk55JSmCXG1wHvYptp38R0/edit?usp=sharing">Link.</a>
+
 ## Past Projects 
 
 <b>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</b> 
