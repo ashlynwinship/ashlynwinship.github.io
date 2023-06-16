@@ -8,7 +8,7 @@ permalink: /home/
 
 <b>Education:</b>
 
-Texas Academy of Mathematics and Science, 2017 (<a href="https://tams.unt.edu/">link</a>)
+Texas Academy of Mathematics and Science, 2017 (<a href="https://tams.unt.edu/">info</a>)
 
 New York University, B.A., 2022
 
