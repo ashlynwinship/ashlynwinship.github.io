@@ -14,7 +14,7 @@ This study employed an acceptability judgment survey which was designed to test 
 
 This research project served as my Senior Honors Thesis at NYU in 2022 and received High Honors. The full text is available <a href="https://as.nyu.edu/content/dam/nyu-as/linguistics/documents/Winship%20(2022)%20Honors%20Thesis.pdf">here.</a>
 
-<b>Variation in the use of (h)ain't in Appalachian English</b>
+<b>Variation in the use of <em>(h)ain't</em> in Appalachian English</b>
 
 This project investigated the use of <em>ain’t</em> and <em>hain’t</em> in Appalachian English using data gathered from the Audio-Aligned and Parsed Corpus of Appalachian English, and compared the use of <em>(h)ain’t</em> in Appalachian English to the use of ain’t in African American English as described by Fisher (2018). A statistical analysis of the data revealed that <em>(h)ain’t</em> is used in Appalachian English in only two grammatical contexts, replacing forms of present BE or present HAVE, and that the use of this form has been decreasing since the 1970s. This differed from the six grammatical contexts in which <em>ain’t</em> is used in African American English that Fisher (2018) described, which were: present progressive, periphrastic future, and copula BE; present perfect HAVE; and present and past DO. Interestingly, the use of <em>(h)ain’t</em> is much more limited in Appalachian English, as the data showed that the grammatical contexts are limited to present tense. This paper is available <a href="https://docs.google.com/document/d/1GsZEsjOQX0taYjLnrXYshGbaJEKn9P28kUsPU4INNOU/edit?usp=sharing">here.</a>
 
