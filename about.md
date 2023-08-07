@@ -10,7 +10,7 @@ I am currently a first-year Ph.D. student in the Department of Linguistics at Co
 
 My research interests are in the areas of morphosyntax, bilingualism, syntactic variation, and computational linguistics. My undergraduate Honors Thesis investigated the agreement patterns of codeswitched utterances containing <em>one</em>-substitution and noun phrase ellipsis in Spanish-English bilingual speech.
 
-When I'm not studying linguistics, I enjoy reading fantasy, training for triathlons, and getting frustrated at video games. I am currently reading my 6th out of the 41 Discworld books by Terry Pratchett, and hope to complete the series by the time I complete my Ph.D.
+When I'm not studying linguistics, I enjoy reading fantasy, training for triathlons, and getting frustrated at video games. I am currently reading my 7th out of the 41 Discworld books by Terry Pratchett, and hope to complete the series by the time I complete my Ph.D.
 
 ### Contact me:
 
