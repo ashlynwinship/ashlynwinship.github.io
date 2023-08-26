@@ -12,11 +12,11 @@ My research interests are in the areas of theoretical syntax and computational l
 
 When I'm not studying linguistics, I enjoy reading fantasy, training for triathlons, and getting frustrated at video games. I am currently reading my 8th out of the 41 Discworld books by Terry Pratchett, and hope to complete the series by the time I complete my Ph.D.
 
-### Contact me:
+## Contact me:
 
 [alw329@cornell.edu](mailto:alw329@cornell.edu)
 
-## Discworld novels read, in order, for those with shared interests:
+### Discworld novels read, in order, for those with shared interests:
 Small Gods
 Mort
 Thud!
