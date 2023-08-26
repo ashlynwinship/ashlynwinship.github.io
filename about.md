@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-<img src="https://i.imgur.com/KmwcKGd.jpeg" width="500">
+<img src="https://i.imgur.com/KmwcKGd.jpeg">
 
 I am currently a first-year Ph.D. student in the Department of Linguistics at Cornell. I completed my undergraduate education at New York University in 2022, where I earned a B.A. with High Honors in Linguistics with a minor in Spanish. Before NYU, I attended the Texas Academy of Mathematics and Science at the University of North Texas, an early college residential program for high school students who excel in STEM fields.
 
