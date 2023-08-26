@@ -8,7 +8,7 @@ permalink: /home/
 
 ![Home Pic](https://i.imgur.com/RAj27wl.jpeg) 
 
-<img src="https://i.imgur.com/RAj27wl.jpeg" width="100" height="100">
+<img src="https://i.imgur.com/RAj27wl.jpeg" width="400"">
 
 <b>Education:</b>
 
