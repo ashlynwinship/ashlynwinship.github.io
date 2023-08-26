@@ -18,18 +18,4 @@ When I'm not studying linguistics, I enjoy reading fantasy, training for triathl
 
 ### Discworld novels read, in order, for those with shared interests:
 
-Small Gods
-
-Mort
-
-Thud!
-
-Hogfather
-
-Guards! Guards!
-
-Reaper Man
-
-Men at Arms
-
-Currently working on: Moving Pictures
+Small Gods; Mort; Thud!; Hogfather; Guards! Guards!; Reaper Man; Men at Arms; currently working on Moving Pictures
