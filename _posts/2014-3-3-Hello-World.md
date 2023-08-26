@@ -4,7 +4,7 @@ layout: post
 
 # Ashlyn Winship
 
-<img src="https://i.imgur.com/RAj27wl.jpeg" width="400">
+<img src="https://i.imgur.com/RAj27wl.jpeg" width="600">
 
 <b>Education:</b>
 
