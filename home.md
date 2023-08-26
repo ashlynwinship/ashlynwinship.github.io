@@ -6,7 +6,7 @@ permalink: /home/
 
 # Ashlyn Winship
 
-![Home Pic](https://i.imgur.com/RAj27wl.jpeg)
+![Home Pic](https://i.imgur.com/RAj27wl.jpeg){width: 200px}
 
 <b>Education:</b>
 
