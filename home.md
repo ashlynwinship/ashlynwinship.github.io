@@ -19,8 +19,7 @@ Cornell, Ph.D. (in progress), 2028
 I am a second-year Ph.D. student in the Department of Linguistics at Cornell. I am currently involved in several projects: 
 
 
-I am also a member of the Cornell Computational Linguistics Lab 
-https://conf.ling.cornell.edu/compling/
+I am also a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/compling/">Cornell Computational Linguistics Lab.</a> 
 
 
 When I'm not studying linguistics, I enjoy reading fantasy and participating in various sports. You can find me reading Discword novels, rock climbing, racing triathlons, and recently even teaching sea kayaking with Cornell Outdoor Education.
