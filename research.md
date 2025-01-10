@@ -5,7 +5,7 @@ permalink: /research/
 ---
 
 ## CV
-<a target="_blank" rel="noopener" href="https://docs.google.com/document/d/1usk4PXQIpN9Liqq2JcD_vfk55JSmCXG1wHvYptp38R0/edit?usp=sharing">Link.</a>
+<a target="_blank" rel="noopener" href="/pdfs/CV_2025.pdf">Link.</a>
 
 ## Past Projects 
 
