@@ -16,13 +16,10 @@ Cornell, Ph.D. (in progress), 2028
 
 <b>Research interests:</b> syntax/morphosyntax, computational linguistics, psycholinguistics, bilingualism, codeswitching
 
-I am a second-year Ph.D. student in the Department of Linguistics at Cornell. I am currently involved in several projects: 
+I am a second-year Ph.D. student in the Department of Linguistics at Cornell. My current research for my qualifying paper investigates agreement attraction effects in Spanish-English codeswitching, using both online and offline measures. I am also a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/compling/">Cornell Computational Linguistics Lab.</a> 
 
 
-I am also a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/compling/">Cornell Computational Linguistics Lab.</a> 
-
-
-When I'm not studying linguistics, I enjoy reading fantasy and participating in various sports. You can find me reading Discword novels, rock climbing, racing triathlons, and recently even teaching sea kayaking with Cornell Outdoor Education.
+When I'm not studying linguistics, you can find me reading Discword novels, rock climbing, racing triathlons, and recently even teaching sea kayaking with Cornell Outdoor Education.
 
 ## Contact me:
 
