@@ -33,7 +33,8 @@ footer-links:
 
 # Add sidebar
 sidebar:
-  - info
+  - home
+  - research
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
