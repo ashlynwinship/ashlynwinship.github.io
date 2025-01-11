@@ -98,9 +98,9 @@ gems:
   - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
 
 # Exclude these files from your production _site
+
+# removed Gemfile and Gemfile.lock from exclude - hopefully it will set the theme?
 exclude:
-  - Gemfile
-  - Gemfile.lock
   - LICENSE
   - README.md
   - CNAME
