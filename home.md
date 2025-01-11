@@ -5,8 +5,6 @@ id: home
 permalink: /home/
 ---
 
-<img src="https://i.imgur.com/RAj27wl.jpeg" width="600">
-
 <b>Education:</b>
 <ul>
   <li>Texas Academy of Mathematics and Science, 2017 (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">info</a>)</li>
