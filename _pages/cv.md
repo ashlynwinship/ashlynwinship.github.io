@@ -38,19 +38,19 @@ Teaching
 
 Work experience
 ======
-* Oct. 2024 - present: <b>Writing Coach</b>
+* <b>Writing Coach</b>: Oct. 2024 - present
   * Cornell University, Office of Academic Diversity Initiatives
 
-* Summer 2024: <b>Writing Tutor</b>
+* <b>Writing Tutor</b>: Summer 2024
   * Cornell University, Summer Writing Center
   * Duties includes: Updates and improvements to template
   * Supervisor: The Users
 
-* Aug. - Oct. 2022: <b>Research Assistant</b>
+* <b>Research Assistant</b>: Aug. - Oct. 2022
   * New York University, Dept. of Linguistics
   * Tagged assigned data for Dr. Gary Thoms’ research investigating children’s acquisition of dative alternations
 
-* Jan. 2019 - Aug. 2023: <b>Educational Monitor</b>
+* <b>Educational Monitor</b>: Jan. 2019 - Aug. 2023
   * <a target="_blank" rel="noopener" href="https://www.leadingandlearning.com">Leading & Learning</a>
   * Worked closely with high school and college students to ensure they completed their course requirements, maintained satisfactory grades, and learned to be competent and 
   independent students
