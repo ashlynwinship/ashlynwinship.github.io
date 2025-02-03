@@ -10,6 +10,10 @@ location: Ithaca, NY
 
 <b>Instructor:</b> Dr. Sarah Murray
 
-<b>Key topics:</b>
+<b>Key topics:</b> Indigenous languages and cultures of the Americas, research skills, introductory linguistics topics
 
 <b>Responsibilities:</b> 
+<ul>
+  <li>Holding office hours (2 hrs/wk)</li>
+  <li>Grading homeworks, midterm exam, and final projects</li>
+</ul>
