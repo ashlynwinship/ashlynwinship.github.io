@@ -1,8 +1,8 @@
 ---
-title: "2022 Summer -- Language and Computers, LING-UA 901"
+title: "Language and Computers, LING-UA 901 (Summer 2022)"
 collection: teaching
 type: "Undergraduate Teaching Assistant"
-permalink: /teaching/lang-comp_nyu
+permalink: /teaching/2022_summer_lang-comp
 venue: New York University, Department of Linguistics
 date: 2022-07-21
 location: New York City, NY
