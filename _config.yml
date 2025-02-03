@@ -13,7 +13,7 @@ title                    : "Ashlyn Winship"
 title_separator          : "-"
 name                     : &name "Ashlyn Winship"
 description              : &description "2nd-year Ph.D student in Linguistics at Cornell University"
-url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://ashlynwinship.github.io"
+url                      : https://ashlynwinship.github.io # the base hostname & protocol for your site e.g. "https://academicpages.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
