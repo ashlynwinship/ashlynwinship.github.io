@@ -14,7 +14,7 @@ Syllabus available <a target="_blank" rel="noopener" href="/_teaching/syllabi/Wi
 
 <b>Key topics:</b> 
 
-<b>Writing:</b>
+<i>Writing:</i>
 <ul>
   <li>Learning various types of writing, including argumentative, persuasive, and personal essays</li>
   <li>Writing a good summary</li>
@@ -24,7 +24,7 @@ Syllabus available <a target="_blank" rel="noopener" href="/_teaching/syllabi/Wi
   <li>Using word choice to alter tone and style</li>
 </ul>
 
-<b>Linguistics:</b>
+<i>Linguistics:</i>
 <ul>
   <li>Introductory linguistics topics, including subfields of linguistics, descriptivism vs. prescriptivism, and linguistic relativity</li>
   <li>Minority language representation (for example, "eye dialect")</li>
