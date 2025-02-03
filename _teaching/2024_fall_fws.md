@@ -10,7 +10,7 @@ location: Ithaca, NY
 
 <b>Instructor:</b> Myself! 
 
-Syllabus available <a target="_blank" rel="noopener" href="/pdfs/Winship_LING1100.pdf">here</a>.
+Syllabus available <a target="_blank" rel="noopener" href="/syllabi/Winship_LING1100.pdf">here</a>.
 
 <b>Key topics:</b> 
 
