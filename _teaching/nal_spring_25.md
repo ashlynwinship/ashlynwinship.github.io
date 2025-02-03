@@ -8,9 +8,8 @@ date: 01-2025
 location: Ithaca, NY
 ---
 
-## Instructor:
-Dr. Sarah Murray
+<b>Instructor:</b>: Dr. Sarah Murray
 
-## Key topics:
+<b>Key topics:</b>
 
-## Responsibilities: 
+<b>Responsibilities:</b> 
