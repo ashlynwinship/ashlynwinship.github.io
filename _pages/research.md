@@ -1,4 +1,12 @@
 
+---
+permalink: /
+title: "Research"
+author_profile: true
+redirect_from: 
+  - /research/
+---
+
 ## CV
 Available <a target="_blank" rel="noopener" href="/pdfs/CV_013125.pdf">here</a>.
 
