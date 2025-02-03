@@ -4,7 +4,7 @@ collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/nal_spring_25
 venue: Cornell University, Department of Linguistics
-date: 01-2025
+date: 2025-01-22
 location: Ithaca, NY
 ---
 
