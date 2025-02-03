@@ -8,7 +8,7 @@ date: 08-2024
 location: Ithaca, NY
 ---
 
-<b>Instructor:</b>: Myself! 
+<b>Instructor:</b> Myself! 
 
 <b>Key topics:</b>
 
