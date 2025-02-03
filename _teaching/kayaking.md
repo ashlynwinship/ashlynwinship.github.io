@@ -4,7 +4,7 @@ collection: teaching
 type: "Student Instructor"
 permalink: /teaching/kayaking
 venue: Cornell University, Cornell Outdoor Education
-date: 08-2024
+date: 2024-10-21
 location: Ithaca, NY
 ---
 <b>Key topics:</b>
