@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/lang-comp_nyu
 venue: New York University, Department of Linguistics
-date: 07-2022
+date: 2022-07-21
 location: New York City, NY
 ---
 
