@@ -5,9 +5,6 @@ title: "Research"
 author_profile: true
 ---
 
-## CV
-Available <a target="_blank" rel="noopener" href="/pdfs/CV_013125.pdf">here</a>.
-
 ## Current Projects
 <b>Experimentally extracting implicit instruments</b> 
 
