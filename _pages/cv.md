@@ -11,11 +11,11 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Linguistics, Cornell University, 2028 (expected)
+* B.A. in Linguistics (minor: Spanish), New York University, 2022
+* Texas Academy of Mathematics and Science, 2017 (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">info</a>)
 
-Work experience
+<!-- Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
   * GitHub University
@@ -30,35 +30,33 @@ Work experience
 * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  * Supervisor: Professor Git -->
 
-Publications
+
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Skills
 ======
-* Currently signed in to 43 different slack teams
+* Spanish - conversational
+* Python - proficient
+* R - proficient
+  
+<!-- Service and leadership
+======
+* Currently signed in to 43 different slack teams -->
