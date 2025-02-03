@@ -1,5 +1,5 @@
 ---
-title: "Freshman Writing Seminar: Language in Popular Media"
+title: "Freshman Writing Seminar: Language in Popular Media, LING 1100, Fall 2024"
 collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/instuctor-of-record
