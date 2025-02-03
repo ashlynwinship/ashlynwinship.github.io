@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor of Record"
 permalink: /teaching/instuctor-of-record
 venue: Cornell University, Department of Linguistics/Knight Institute
-date: 08-2024
+date: 2024-08-21
 location: Ithaca, NY
 ---
 
