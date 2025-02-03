@@ -1,5 +1,5 @@
 ---
-title: "Language and Computers"
+title: "Language and Computers, LING-UA 901, Summer 2022"
 collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/lang-comp_nyu
@@ -8,7 +8,7 @@ date: 07-2022
 location: New York City, NY
 ---
 
-<b>Instructor:</b>: Dr. Lucas Champollion
+<b>Instructor:</b> Dr. Lucas Champollion
 
 <b>Key topics:</b>
 
