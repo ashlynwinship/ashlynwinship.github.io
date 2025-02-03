@@ -13,3 +13,8 @@ location: Ithaca, NY
 <b>Key topics:</b>
 
 <b>Responsibilities:</b> 
+<ul>
+  <li>Designing and planning course</li>
+  <li>Grading essays</li>
+  <li>One-on-one meetings with students twice per semester</li>
+</ul>
