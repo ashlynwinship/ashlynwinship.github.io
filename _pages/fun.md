@@ -1,9 +1,7 @@
 ---
-permalink: /
+permalink: /fun/
 title: "Fun"
 author_profile: true
-redirect_from: 
-  - /fun/
 ---
 
 ## My current favorite Wiki pages:
