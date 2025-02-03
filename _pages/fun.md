@@ -17,4 +17,4 @@ author_profile: true
 
 <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Centralia_mine_fire">Centralia mine fire.</a> This thing has been burning forever. 
 
-<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Misophonia">Misophonia.</a>
+
