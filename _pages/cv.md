@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+Available <a target="_blank" rel="noopener" href="/pdfs/CV_013125.pdf">here</a>.
+
 Education
 ======
 * Ph.D in Linguistics, Cornell University, 2028 (expected)
