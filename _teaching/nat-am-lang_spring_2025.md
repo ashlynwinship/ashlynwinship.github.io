@@ -1,1 +1,0 @@
-## TA: Native American Languages
