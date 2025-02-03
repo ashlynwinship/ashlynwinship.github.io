@@ -1,3 +1,11 @@
+---
+permalink: /
+title: "Fun"
+author_profile: true
+redirect_from: 
+  - /fun/
+---
+
 ## My current favorite Wiki pages:
 
 <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Skunk">Skunk.</a> In particular, this description of a skunk from <i>The Jesuit Relations</i>:
