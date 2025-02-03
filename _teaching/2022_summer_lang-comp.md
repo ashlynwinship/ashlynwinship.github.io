@@ -10,6 +10,10 @@ location: New York City, NY
 
 <b>Instructor:</b> Dr. Lucas Champollion
 
-<b>Key topics:</b>
+<b>Key topics:</b> introductory linguistics topics, introductory computer science topics: Python and Jupyter notebook basics
 
 <b>Responsibilities:</b> 
+<ul>
+  <li>Leading weekly Zoom recitation and recording them for course archive materials</li>
+  <li>Grading Jupyter notebook programming assignments</li>
+</ul>
