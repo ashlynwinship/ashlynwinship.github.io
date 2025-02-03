@@ -7,6 +7,11 @@ venue: Cornell University, Cornell Outdoor Education
 date: 2024-10-21
 location: Ithaca, NY
 ---
-<b>Key topics:</b>
+<b>Key topics:</b> kayak safety; basic paddling techniques; open water exits and re-entries; loading, launching, and landing a kayak 
 
 <b>Responsibilities:</b> 
+<ul>
+  <li>Ensuring safety of students while on the water</li>
+  <li>Teaching basics of kayak equipment care and paddling</li>
+  <li>Planning water routes with fellow student instructors</li>
+</ul>
