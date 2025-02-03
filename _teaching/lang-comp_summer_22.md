@@ -1,5 +1,5 @@
 ---
-title: "Summer22 -- Language and Computers, LING-UA 901"
+title: "2022 Summer -- Language and Computers, LING-UA 901"
 collection: teaching
 type: "Undergraduate Teaching Assistant"
 permalink: /teaching/lang-comp_nyu
