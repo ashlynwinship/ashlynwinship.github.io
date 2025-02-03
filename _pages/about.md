@@ -13,12 +13,6 @@ I am a second-year Ph.D. student in the Department of Linguistics at Cornell. My
 
 When I'm not studying linguistics, you can find me reading Discworld novels, rock climbing, racing triathlons, and recently even teaching sea kayaking with Cornell Outdoor Education. I also used to be a <a target="_blank" rel="noopener" href="https://secure.meetcontrol.com/divemeets/system/profile.php?number=24901">diver</a>.
 
-<b>Education:</b>
-<ul>
-  <li>Texas Academy of Mathematics and Science, 2017 (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">info</a>)</li>
-  <li>New York University, B.A., 2022</li>
-  <li>Cornell University, Ph.D in progress, expected 2028</li>
-</ul>
 
 ## Contact me:
 
