@@ -14,6 +14,6 @@ location: New York City, NY
 
 <b>Responsibilities:</b> 
 <ul>
-  <li>Leading weekly Zoom recitation and recording them for course archive materials</li>
+  <li>Leading weekly Zoom recitations and recording them for course archive materials</li>
   <li>Grading Jupyter notebook programming assignments</li>
 </ul>
