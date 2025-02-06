@@ -8,7 +8,7 @@ date: 2024-08-21
 location: Ithaca, NY
 ---
 
-<b>Instructor:</b> Myself! Syllabus available <a target="_blank" rel="noopener" href="/pdfs/Winship_LING1100.pdf">here</a>.
+<b>Instructor:</b> Myself! Syllabus available <a target="_blank" rel="noopener" href="/files/syllabi/Winship_LING1100.pdf">here</a>.
 
 <b>Key topics:</b> 
 
