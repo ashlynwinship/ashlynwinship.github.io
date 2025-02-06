@@ -45,7 +45,7 @@ Work experience
   * Cornell University, Summer Writing Center
 
 * <b>Research Assistant</b>: Aug. - Oct. 2022
-  * New York University, Dept. of Linguistics
+  * New York University, Department of Linguistics
   * Tagged assigned data for Dr. Gary Thoms’ research investigating children’s acquisition of dative alternations
 
 * <b>Educational Monitor</b>: Jan. 2019 - Aug. 2023
