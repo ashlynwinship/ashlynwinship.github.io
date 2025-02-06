@@ -16,4 +16,5 @@ location: Ithaca, NY
 <ul>
   <li>Holding office hours (2 hrs/wk)</li>
   <li>Grading homeworks, midterm exam, and final projects</li>
+  <li>Answering questions, providing support during lectures</li>
 </ul>
