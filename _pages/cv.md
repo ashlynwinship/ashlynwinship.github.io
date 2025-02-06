@@ -43,8 +43,6 @@ Work experience
 
 * <b>Writing Tutor</b>: Summer 2024
   * Cornell University, Summer Writing Center
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
 
 * <b>Research Assistant</b>: Aug. - Oct. 2022
   * New York University, Dept. of Linguistics
