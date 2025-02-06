@@ -1,5 +1,5 @@
 ---
-title: "Native American Languages, LING 2248 (Spring 2025)"
+title: "Native American Languages, LING 2248/6248 (Spring 2025)"
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2025_spring_nal
