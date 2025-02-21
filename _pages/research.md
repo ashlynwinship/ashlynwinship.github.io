@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Current Projects
-<b>Experimentally extracting implicit instruments</b> 
+<b><ins>Experimentally extracting implicit instruments</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://zander-lynch.github.io/">Zander Lynch</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
@@ -14,7 +14,7 @@ Models of events represent the interactions of the entities involved. In the eve
 
 Accepted to <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>.
 
-<b>Agreement attraction in Spanish-English codeswitching</b> 
+<b><ins>Agreement attraction in Spanish-English codeswitching</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/HelenaWebsite/index.html">Helena Aparicio</a>)
 
