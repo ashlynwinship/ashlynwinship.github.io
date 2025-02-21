@@ -5,7 +5,7 @@ title: "Research"
 author_profile: true
 ---
 
-## Current Projects
+# Current Projects
 <b>Experimentally extracting implicit instruments</b> 
 
 (with <a target="_blank" rel="noopener" href="https://zander-lynch.github.io/">Zander Lynch</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
