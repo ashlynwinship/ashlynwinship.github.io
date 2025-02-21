@@ -23,7 +23,8 @@ Number agreement attraction, a process in which the number feature of a noun bet
 # Past Projects 
 
 <b><ins>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</ins></b> 
-<b>(Undergraduate Honors Thesis)</b>
+
+(Undergraduate Honors Thesis)
 
 This research project investigates how codeswitching (CS) functions for Spanish-English bilingual speakers in utterances that feature noun phrase (NP) ellipsis and <em>one</em>-substitution, with particular focus on how the gender assignment rules of each language apply with regards to the elided and substituted material. Previous research has shown that when a switch occurs within an ellipsis site, the language of the elided material can be inferred from case markers on the remnants, and that further research on how gender markers function similarly is necessary (González-Vilbazo & Ramos, 2018). In addition to NP ellipsis, this paper investigates how gender markers can reveal information about the substituted material when a switch occurs within a <em>one</em>-substitution construction. 
 
