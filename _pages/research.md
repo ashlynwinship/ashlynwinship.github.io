@@ -10,6 +10,8 @@ author_profile: true
 
 (with <a target="_blank" rel="noopener" href="https://zander-lynch.github.io/">Zander Lynch</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
+<b>Keywords</b>: event representation, implicit instruments
+
 Models of events represent the interactions of the entities involved. In the event “The chef chopped an onion,” a chef and an onion are explicitly involved, and the event results in a chopped onion. However, it is also implied that an instrument, a knife, must interact with the chef and the onion. In this study, we investigate the extent to which people model implicit instruments and other items related to the event. We find that people’s representations of events include instruments that are implied to be involved in the event even when they are not explicitly stated in the event description, and despite other items being primed. These findings are consistent across different sentence constructions of event descriptions, suggesting that implicit instrument representation is robust in comprehension of events. We also show that implicit instrument representation persists despite lexical priming of other items, and that the representations provide evidence for the disambiguation of the Instrument semantic role from other semantic role categories. 
 
 Accepted to <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>.
@@ -18,6 +20,8 @@ Accepted to <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/
 
 (with <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/HelenaWebsite/index.html">Helena Aparicio</a>)
 
+<b>Keywords</b>: codeswitching, bilingualism, agreement attraction, sentence processing
+
 Number agreement attraction, a process in which the number feature of a noun between a subject and a verb can cause mistakes with subject-verb number agreement, has been observed during online and offline processing in both English (Nicol et al. 1997; Haussler & Bader 2009; Wagers et al. 2009) and Spanish (Lago et al. 2015; Lago et al. 2021). However, current research has not addressed whether similar effects can be observed in sentences that codeswitch between the two languages. According to theories of bilingual grammar, the features of lexical items from a bilingual speaker’s different languages should be accessible to the bilingual grammar (cf. Sridhar & Sridhar 1980; Hartsuiker et al. 2004), meaning that agreement attraction effects should be observed. This study investigates whether those effects are found in sentences that switch from English to Spanish. The results of two different online experiments (self-paced reading, L-maze) do not display the expected agreement attraction effects, but an offline task (acceptability judgment) does show agreement attraction effects. These results are informative to the various theories of the syntax of bilingualism and codeswitching. This work is part of my ongoing research for my qualifying paper, which will be defended in May 2025.
 
 # Past Projects 
@@ -25,6 +29,8 @@ Number agreement attraction, a process in which the number feature of a noun bet
 <b><ins>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</ins></b> 
 
 (Undergraduate Honors Thesis)
+
+<b>Keywords</b>: codeswitching, bilingualism, grammatical gender
 
 This research project investigates how codeswitching (CS) functions for Spanish-English bilingual speakers in utterances that feature noun phrase (NP) ellipsis and <em>one</em>-substitution, with particular focus on how the gender assignment rules of each language apply with regards to the elided and substituted material. Previous research has shown that when a switch occurs within an ellipsis site, the language of the elided material can be inferred from case markers on the remnants, and that further research on how gender markers function similarly is necessary (González-Vilbazo & Ramos, 2018). In addition to NP ellipsis, this paper investigates how gender markers can reveal information about the substituted material when a switch occurs within a <em>one</em>-substitution construction. 
 
