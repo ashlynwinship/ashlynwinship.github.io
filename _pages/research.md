@@ -14,7 +14,7 @@ author_profile: true
 
 Models of events represent the interactions of the entities involved. In the event “The chef chopped an onion,” a chef and an onion are explicitly involved, and the event results in a chopped onion. However, it is also implied that an instrument, e.g., a knife, must interact with the chef and the onion. In this study, we investigate the extent to which people model implicit instruments and other items related to the event. We find that people’s representations of events include instruments that are implied to be involved in the event even when they are not explicitly stated in the event description. These findings are consistent across different sentence constructions of event descriptions, showing that implicit instrument representation is robust in comprehension of events. We also show that implicit instrument representation persists despite lexical priming of other items, and that the representations provide evidence for the disambiguation of the Instrument semantic role from other semantic role categories. 
 
-Accepted to <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>.
+Accepted to <a target="_blank" rel="noopener" href = "https://peer-workshop.github.io/">PEER 2025</a> and <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>.
 
 <b><ins>Agreement attraction in Spanish-English codeswitching</ins></b> 
 
