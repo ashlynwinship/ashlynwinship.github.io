@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Linguistics (minor: Cognitive Science), Cornell University, expected 2028
 * B.A. in Linguistics (minor: Spanish), New York University, 2022
-* Texas Academy of Mathematics and Science, 2017 (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">info</a>)
+* Texas Academy of Mathematics and Science (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">TAMS</a>), University of North Texas, 2017
 
 
 <!-- Publications
