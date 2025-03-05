@@ -14,7 +14,7 @@ Full document available <a target="_blank" rel="noopener" href="/files/CV_030325
 Education
 ======
 * Ph.D in Linguistics (minor: Cognitive Science), Cornell University, expected 2028
-* B.A. in Linguistics (minor: Spanish), New York University, 2022
+* B.A. in Linguistics (minor: Spanish), <i>cum laude</i>, New York University, 2022
 * Texas Academy of Mathematics and Science (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">TAMS</a>), University of North Texas, 2017
 
 
