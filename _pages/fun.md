@@ -5,7 +5,7 @@ title: "Fun"
 author_profile: true
 ---
 
-<b><u>What am I reading lately?</b></u>
+<b><ins>What am I reading lately?</b></ins>
 
 <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/30319086-if-we-were-villains"><i>If We Were Villains</i></a>, M.L. Rio
 
@@ -13,7 +13,7 @@ author_profile: true
 
 <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/38212132-black-flags-blue-waters?ref=nav_sb_ss_1_23"><i>Black Flags, Blue Waters</i></a>, Eric Jay Dolin
 
-<b><u>My current favorite Wiki pages:</b></u>
+<b><ins>My current favorite Wiki pages:</b></ins>
 
 <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Skunk">Skunk.</a> In particular, this description of a skunk from <i>The Jesuit Relations</i>:
 
