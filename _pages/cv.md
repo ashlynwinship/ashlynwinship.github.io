@@ -15,7 +15,7 @@ Education
 ======
 * Ph.D in Linguistics (minor: Cognitive Science), Cornell University, expected 2028
 * B.A. in Linguistics (minor: Spanish), <i>cum laude</i>, New York University, 2022
-* Texas Academy of Mathematics and Science (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">TAMS</a>), University of North Texas, 2017
+* University of North Texas, Texas Academy of Mathematics and Science (<a target="_blank" rel="noopener" href="https://tams.unt.edu/">TAMS</a>), 2017
 
 
 <!-- Publications
@@ -55,9 +55,9 @@ Work experience
 
 Skills
 ======
-* Spanish - conversational
-* Python - proficient
-* R - proficient
+* Languages: English (native), Spanish (intermediate/conversational)
+* Programming: Python (NumPy, pandas, transformers, PyTorch), R
+* Linguistics tools: PCIbex
   
 <!-- Service and leadership
 ======
