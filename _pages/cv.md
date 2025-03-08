@@ -30,11 +30,11 @@ Presentations
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
 
-# Workshops:
+<b>Workshops:</b>
 
 <i>Experimentally extracting implicit instruments</i>, PEER 2025
 
-# Conferences: 
+<b>Conferences:</b> 
 
 <i>Experimentally extracting implicit instruments</i>, HSP 2025
   
