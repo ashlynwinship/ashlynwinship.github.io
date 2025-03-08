@@ -32,11 +32,11 @@ Presentations
 
 <b>Workshops:</b>
 
-<i>Experimentally extracting implicit instruments</i>, PEER 2025
+* <i>Experimentally extracting implicit instruments</i>, PEER 2025
 
 <b>Conferences:</b> 
 
-<i>Experimentally extracting implicit instruments</i>, HSP 2025
+* <i>Experimentally extracting implicit instruments</i>, HSP 2025
   
   
 Teaching
