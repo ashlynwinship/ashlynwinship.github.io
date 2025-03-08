@@ -13,8 +13,9 @@ author_profile: true
 
 <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Grain_entrapment">Grain entrapment.</a> The diagram is fun.
 
-<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Hippopotamus">Hippopotamus.</a> They're surprisingly dangerous. 
+## What am I reading lately?
 
-<a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Centralia_mine_fire">Centralia mine fire.</a> This thing has been burning forever. 
+<a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/30319086-if-we-were-villains"><i>If We Were Villains</i></a>, M.L. Rio
+
 
 
