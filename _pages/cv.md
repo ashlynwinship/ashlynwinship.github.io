@@ -39,6 +39,7 @@ Teaching
 
 Work experience
 ======
+
 * <b>Writing Coach</b>: Oct. 2024 - present
   * Cornell University, Office of Academic Diversity Initiatives
 
