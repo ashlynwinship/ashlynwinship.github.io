@@ -26,10 +26,6 @@ Education
   
 Presentations
 ======
-  <!-- <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul> -->
-
 <b>Workshops:</b>
 
 * <i>Experimentally extracting implicit instruments</i>, PEER 2025
