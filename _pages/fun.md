@@ -7,8 +7,6 @@ author_profile: true
 
 <b><ins>What am I reading lately?</ins></b>
 
-<a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/30319086-if-we-were-villains"><i>If We Were Villains</i></a>, M.L. Rio
-
 <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/104386166-the-deorhord?from_search=true&from_srp=true&qid=Y3Mg1qnpMQ&rank=1"><i>The Deor Hord: An Old English Bestiary</i></a>, Hana Videen
 
 <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/38212132-black-flags-blue-waters?ref=nav_sb_ss_1_23"><i>Black Flags, Blue Waters</i></a>, Eric Jay Dolin
