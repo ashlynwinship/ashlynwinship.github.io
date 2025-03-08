@@ -13,8 +13,6 @@ author_profile: true
 
 <a target="_blank" rel="noopener" href="https://www.goodreads.com/book/show/38212132-black-flags-blue-waters?ref=nav_sb_ss_1_23"><i>Black Flags, Blue Waters</i></a>, Eric Jay Dolin
 
-(My Goodreads: 
-
 # My current favorite Wiki pages:
 
 <a target="_blank" rel="noopener" href="https://en.wikipedia.org/wiki/Skunk">Skunk.</a> In particular, this description of a skunk from <i>The Jesuit Relations</i>:
