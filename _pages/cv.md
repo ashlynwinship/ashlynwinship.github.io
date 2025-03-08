@@ -54,6 +54,7 @@ Work experience
   * Worked closely with high school and college students to ensure they completed their course requirements, maintained satisfactory grades, and learned to be competent and 
   independent students
 
+
 Skills
 ======
 * Languages: English (native), Spanish (intermediate/conversational)
