@@ -24,11 +24,19 @@ Education
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
   
-<!-- Presentations
+Presentations
 ======
-  <ul>{% for post in site.talks reversed %}
+  <!-- <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul> -->
+
+# Workshops:
+
+<i>Experimentally extracting implicit instruments</i>, PEER 2025
+
+# Conferences: 
+
+<i>Experimentally extracting implicit instruments</i>, HSP 2025
   
   
 Teaching
