@@ -30,7 +30,9 @@ This work is part of my ongoing research for my qualifying paper, which will be 
 
 <b><ins>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</ins></b> 
 
-(Undergraduate Honors Thesis)
+CS-DPs-poster_CULC_URC.pd
+
+(Undergraduate Honors Thesis; <a target="_blank" rel="noopener" href="poster">poster</a>; <a target="_blank" rel="noopener" href="https://as.nyu.edu/content/dam/nyu-as/linguistics/documents/Winship%20(2022)%20Honors%20Thesis.pdf">full text</a>)
 
 <b>Keywords</b>: codeswitching, bilingualism, grammatical gender
 
