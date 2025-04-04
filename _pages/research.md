@@ -28,7 +28,7 @@ This work is part of my ongoing research for my qualifying paper, which will be 
 
 <b><ins>Generating representations in space with GRIS</ins></b>
 
-(with <a target="_blank" rel="noopener" href="https://https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
+(with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
 <b>Keywords</b>: acceptability, typicality, similarity, paradigm, representations
 
