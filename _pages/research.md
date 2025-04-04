@@ -34,6 +34,8 @@ This work is part of my ongoing research for my qualifying paper, which will be 
 
 When conducting experimental research, the research questions are often inherently linked (and limited) to the paradigm that is used. In this paper, we present a new experimental tool -- GRIS (Generating Representations in Space) -- that builds experiments where participants can manipulate objects on a screen. Through a series of three experiments on sentence acceptability, category typicality, and multi-dimensional similarity, we demonstrate how GRIS-based experiments allow cognitive scientists to approximate representational spaces for a variety of cognitive phenomena, expanding the set of possible research questions that cognitive scientists may ask. The GitHub repo is available <a target="_blank" rel="noopener" href="https://github.com/johnstarr-ling/gris-toolkit">here</a>.
 
+Accepted to <a target="_blank" rel="noopener" href = "https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>. 
+
 # Past Projects 
 
 <b><ins>Mixing and Matching Gender: The Interaction of Gender Assignment Rules in Spanish-English Bilingual Speech</ins></b> 
