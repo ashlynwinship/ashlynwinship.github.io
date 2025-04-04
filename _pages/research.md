@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Current Projects
-<b><ins>Experimentally extracting implicit instruments</ins></b> 
+<b><ins>1) Experimentally extracting implicit instruments</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://zander-lynch.github.io/">Zander Lynch</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
@@ -16,7 +16,7 @@ Models of events represent the interactions of the entities involved. In the eve
 
 Accepted to <a target="_blank" rel="noopener" href = "https://peer-workshop.github.io/">PEER 2025</a>, <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>, and <a target="_blank" rel="noopener" href = "https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>.
 
-<b><ins>Agreement attraction in Spanish-English codeswitching</ins></b> 
+<b><ins>2) Agreement attraction in Spanish-English codeswitching</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/HelenaWebsite/index.html">Helena Aparicio</a>)
 
@@ -26,7 +26,7 @@ Number agreement attraction, a process in which the number feature of a noun bet
 
 This work is part of my ongoing research for my qualifying paper, which will be defended in May 2025.
 
-<b><ins>Generating representations in space with GRIS</ins></b>
+<b><ins>3) Generating representations in space with GRIS</ins></b>
 
 (with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
