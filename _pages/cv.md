@@ -23,6 +23,12 @@ Education
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
+
+Publications
+======
+
+* "Experimentally extracting implicit instruments," CogSci 2025 (under review)
+* "Generating representations in space with GRIS," CogSci 2025 (under review)
   
 Presentations
 ======
@@ -32,6 +38,7 @@ Presentations
 
 <b>Conferences:</b> 
 
+* <i>Experimentally extracting implicit instruments</i>, CogSci 2025
 * <i>Experimentally extracting implicit instruments</i>, HSP 2025
   
   
