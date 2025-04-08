@@ -39,6 +39,7 @@ Presentations
 <b>Conferences:</b> 
 
 * "Experimentally extracting implicit instruments," CogSci 2025
+* "Generating representations in space with GRIS," CogSci 2025
 * "Experimentally extracting implicit instruments," HSP 2025
   
   
