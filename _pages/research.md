@@ -24,8 +24,6 @@ Accepted to <a target="_blank" rel="noopener" href = "https://peer-workshop.gith
 
 Number agreement attraction, a process in which the number feature of a noun between a subject and a verb can cause mistakes with subject-verb number agreement, has been observed during online and offline processing in both English (Nicol et al. 1997; Haussler & Bader 2009; Wagers et al. 2009) and Spanish (Lago et al. 2015; Lago et al. 2021). However, current research has not addressed whether similar effects can be observed in sentences that codeswitch between the two languages. This study investigates whether attraction effects are found in sentences that switch from English to Spanish. The results of two different online experiments (self-paced reading, L-maze) do not display the expected agreement attraction effects, but an offline task (acceptability judgment) does show agreement attraction effects. These results suggest that while the act of codeswitching can introduce ambiguity during sentence processing (cf. Valdés Kroff & Dussias 2023), agreement attraction effects are still recoverable from offline tasks, which refutes ideas of a "bilingual disadvantage" (cf. Bylund et al. 2023), and demonstrates the importance of utilizing a variety of tasks when investigating bilingual processing. 
 
-This work is part of my ongoing research for my qualifying paper, which will be defended in May 2025.
-
 <b><ins>3) Generating representations in space with GRIS</ins></b>
 
 (with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
