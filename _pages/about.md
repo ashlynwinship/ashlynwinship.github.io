@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>Research interests:</b> psycholinguistics, computational linguistics, syntax/morphosyntax, bilingualism, codeswitching
+<b>Research interests:</b> experimental psycholinguistics, computational linguistics, bilingual processing
 
 I am a third-year Ph.D student in the Department of Linguistics at Cornell. My current research investigates agreement attraction effects in Spanish-English codeswitching, using both online and offline measures. I am also a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/compling/">Cornell Computational Linguistics Lab</a>, the <a target="_blank" rel="noopener" href="https://c-psyd.github.io/">Computational Psycholinguistic Discussion group</a>, the <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/">Linguistic Meaning Lab</a>, and the <a target="_blank" rel="noopner" href="https://nlp.cornell.edu/">Cornell Natural Language Processing Group</a>.
 
