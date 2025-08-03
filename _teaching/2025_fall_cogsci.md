@@ -3,9 +3,9 @@ title: "Writing in the Major: Introduction to Cognitive Science, COGST 1104 (Fal
 collection: teaching
 type: "Graduate Teaching Assistant"
 permalink: /teaching/2025_fall_cogsci
-venue: Cornell University, Cognitive Science Program
+venue: "Cornell University, Cognitive Science Program"
 date: 2025-08-21
-location: Ithaca, NY
+location: "Ithaca, NY"
 ---
 
 <b>Instructor:</b> Dr. Laura Casasanto
