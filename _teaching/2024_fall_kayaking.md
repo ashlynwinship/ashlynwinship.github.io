@@ -1,5 +1,5 @@
 ---
-title: "Introduction to Sea Kayaking, PE 1674 (Fall 2024, Spring 2025)"
+title: "Introduction to Sea Kayaking, PE 1674 (2024 - 2025)"
 collection: teaching
 type: "Student Instructor"
 permalink: /teaching/2024_fall_kayaking
