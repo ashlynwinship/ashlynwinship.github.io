@@ -4,7 +4,7 @@ collection: teaching
 type: "Instructor"
 permalink: /teaching/2024_fall_kayaking
 venue: Cornell University, Cornell Outdoor Education
-date: 2024 - 2025
+date: 
 location: Ithaca, NY
 ---
 <b>Key topics:</b> kayak safety; basic paddling techniques; open water exits and re-entries; loading, launching, and landing a kayak 
