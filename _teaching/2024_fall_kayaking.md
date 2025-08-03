@@ -1,7 +1,7 @@
 ---
 title: "Introduction to Sea Kayaking, PE 1674 (2024 - 2025)"
 collection: teaching
-type: "Student Instructor"
+type: "Instructor"
 permalink: /teaching/2024_fall_kayaking
 venue: Cornell University, Cornell Outdoor Education
 date: 2024 - 2025
