@@ -32,7 +32,7 @@ Publications
 
 <b>Conference Proceedings:</b>
 
-* "Generating representations in space with GRIS," <i>Proceedings of the Annual Meeting of the Society of Cognitive Science</i>, 2025
+* "Generating representations in space with GRIS," <i>Proceedings of the Annual Meeting of the Cognitive Science Society</i>, 2025
   
 Presentations
 ======
