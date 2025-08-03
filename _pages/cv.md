@@ -26,9 +26,13 @@ Education
 
 Publications
 ======
+<b>Articles:</b>
+
+* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, submitted
+
+<b>Conference Proceedings:</b>
 
 * "Generating representations in space with GRIS," <i>Proceedings of the Annual Meeting of the Society of Cognitive Science</i>, 2025
-* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, submitted
   
 Presentations
 ======
