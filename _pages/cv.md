@@ -27,8 +27,8 @@ Education
 Publications
 ======
 
-* "Experimentally extracting implicit instruments," CogSci 2025 (under review)
-* "Generating representations in space with GRIS," CogSci 2025 (under review)
+* "Generating representations in space with GRIS," Proceedings of the Annual Meeting of the Society of Cognitive Science, 2025
+* "Approximating Cognitive Representations Using Space," Open Mind, submitted
   
 Presentations
 ======
