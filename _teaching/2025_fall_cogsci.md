@@ -13,8 +13,8 @@ location: "Ithaca, NY"
 <b>Key topics:</b> 
 
 <ul>
-  <li>somethin!</li>
-  <li>something else</li>
+  <li>x</li>
+  <li>x</li>
 </ul>
 
 <b>Responsibilities:</b> 
