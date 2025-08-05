@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "blue" #used to be "default"
-title                    : "Ashlyn Winship"
+title                    : "Ashlyn Winship" 
 title_separator          : "-"
 name                     : &name "Ashlyn Winship"
 description              : &description "3rd-year Ph.D student in Linguistics at Cornell University"
