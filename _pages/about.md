@@ -13,7 +13,7 @@ I am a third-year Ph.D student in the Department of Linguistics at Cornell, focu
 
 I am also a member of the <a target="_blank" rel="noopener" href="https://conf.ling.cornell.edu/compling/">Cornell Computational Linguistics Lab</a>, the <a target="_blank" rel="noopener" href="https://c-psyd.github.io/">Computational Psycholinguistic Discussion group</a>, the <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/">Linguistic Meaning Lab</a>, and the <a target="_blank" rel="noopner" href="https://nlp.cornell.edu/">Cornell Natural Language Processing Group</a>.
 
-When I'm not studying linguistics, you can find me reading, rock climbing, racing triathlons, and recently even teaching sea kayaking with Cornell Outdoor Education. I also used to be a <a target="_blank" rel="noopener" href="https://secure.meetcontrol.com/divemeets/system/profile.php?number=24901">diver</a>.
+Outside of linguistics, you can find me doing one of several "R"s: reading with my cat Oakley, rock climbing, running, or racing triathlons. I also used to be a <a target="_blank" rel="noopener" href="https://secure.meetcontrol.com/divemeets/system/profile.php?number=24901">diver</a>, and now I teach sea kayaking with Cornell Outdoor Education.
 
 
 ## Contact me:
