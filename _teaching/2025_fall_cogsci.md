@@ -8,7 +8,7 @@ date: 2025-08-21
 location: "Ithaca, NY"
 ---
 
-<b>Instructor:</b> Dr. Laura Casasanto
+<b>Instructor:</b> Myself (syllabus available here) and Dr. Laura Casasanto
 
 <b>Key topics:</b> 
 
