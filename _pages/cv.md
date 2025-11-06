@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full document available <a target="_blank" rel="noopener" href="/files/CV_082825.pdf">here</a> (last updated 08/28/2025).
+Full document available <a target="_blank" rel="noopener" href="/files/CV_110625.pdf">here</a> (last updated 11/06/2025).
 
 Education
 ======
@@ -28,7 +28,7 @@ Publications
 ======
 <b>Articles:</b>
 
-* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, submitted
+* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, under review
 
 <b>Conference Proceedings:</b>
 
