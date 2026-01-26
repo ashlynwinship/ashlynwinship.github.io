@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full document available <a target="_blank" rel="noopener" href="/files/CV_121125.pdf">here</a> (last updated 12/11/2025).
+Full document available <a target="_blank" rel="noopener" href="/files/CV_012626.pdf">here</a> (last updated 01/26/2026).
 
 Education
 ======
@@ -42,6 +42,7 @@ Presentations
 
 <b>Conferences:</b> 
 
+* "Polysemous category assignment in mixed contexts," HSP 2026
 * "Experimentally extracting implicit instruments," CogSci 2025
 * "Generating representations in space with GRIS," CogSci 2025
 * "Experimentally extracting implicit instruments," HSP 2025
