@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-<b>Research interests:</b> experimental psycholinguistics, computational linguistics, bilingual processing
+<b>Research interests:</b> experimental psycholinguistics, computational linguistics, category processing, bilingual processing
 
 I am a third-year Ph.D student in the Department of Linguistics at Cornell, focusing on experimental psycholinguistics. My research investigates the online representations that people form as they process language. You can read about my current projects on the "Research" tab!  
 
