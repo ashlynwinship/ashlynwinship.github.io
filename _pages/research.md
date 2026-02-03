@@ -15,6 +15,8 @@ author_profile: true
 
 Prior experimental work using categorization tasks has explicitly highlighted the categories involved in the task, but in real-world category processing, people are not typically provided with overt category labels. This paper introduces novel tasks designed to test whether people will both generate and access category representations without explicitly knowing that categories are involved in the task. We show that 1) people can extrapolate category representations out of noisy contexts even without being given a category label, and those representations affect their recall of previously-seen items; and 2) the abstract category representations that people form when they do not have explicit category information are malleable, and people will update them when presented with new context.
 
+<Accepted to a target="_blank" rel="noopener" href="https://hsp2026.org/">HSP 2026</a>.
+
 <b><ins>2) Generating representations in space with GRIS</ins></b>
 
 (with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
