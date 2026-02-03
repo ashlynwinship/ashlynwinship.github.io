@@ -6,7 +6,26 @@ author_profile: true
 ---
 
 # Current Projects
-<b><ins>1) Experimentally extracting implicit instruments</ins></b> 
+
+<b><ins>1) The effects of context on implicit category generation </ins></b> 
+
+(with <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
+
+<b>Keywords</b>: categorization, ambiguity, polysemy
+
+Prior experimental work using categorization tasks has explicitly highlighted the categories involved in the task, but in real-world category processing, people are not typically provided with overt category labels. This paper introduces novel tasks designed to test whether people will both generate and access category representations without explicitly knowing that categories are involved in the task. We show that 1) people can extrapolate category representations out of noisy contexts even without being given a category label, and those representations affect their recall of previously-seen items; and 2) the abstract category representations that people form when they do not have explicit category information are malleable, and people will update them when presented with new context.
+
+<b><ins>2) Generating representations in space with GRIS</ins></b>
+
+(with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
+
+<b>Keywords</b>: acceptability, typicality, similarity, paradigm, representations
+
+When conducting experimental research, the research questions are often inherently linked (and limited) to the paradigm that is used. In this paper, we present a new experimental tool -- GRIS (Generating Representations in Space) -- that builds experiments where participants can manipulate objects on a screen. Through a series of three experiments on sentence acceptability, category typicality, and multi-dimensional similarity, we demonstrate how GRIS-based experiments allow cognitive scientists to approximate representational spaces for a variety of cognitive phenomena, expanding the set of possible research questions that cognitive scientists may ask. The GitHub repo is available <a target="_blank" rel="noopener" href="https://github.com/johnstarr-ling/gris-toolkit">here</a>.
+
+Accepted to <a target="_blank" rel="noopener" href = "https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>. 
+
+<b><ins>3) Experimentally extracting implicit instruments</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://zander-lynch.github.io/">Zander Lynch</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
 
@@ -16,23 +35,13 @@ Models of events represent the interactions of the entities involved. In the eve
 
 Accepted to <a target="_blank" rel="noopener" href = "https://peer-workshop.github.io/">PEER 2025</a>, <a target="_blank" rel="noopener" href = "https://hsp2025.github.io/">HSP 2025</a>, and <a target="_blank" rel="noopener" href = "https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>.
 
-<b><ins>2) Agreement attraction in Spanish-English codeswitching</ins></b> 
+<b><ins>4) Agreement attraction in Spanish-English codeswitching</ins></b> 
 
 (with <a target="_blank" rel="noopener" href="https://lime-lab-cornell.github.io/HelenaWebsite/index.html">Helena Aparicio</a>)
 
 <b>Keywords</b>: codeswitching, bilingualism, agreement attraction, sentence processing
 
 Number agreement attraction, a process in which the number feature of a noun between a subject and a verb can cause mistakes with subject-verb number agreement, has been observed during online and offline processing in both English (Nicol et al. 1997; Haussler & Bader 2009; Wagers et al. 2009) and Spanish (Lago et al. 2015; Lago et al. 2021). However, current research has not addressed whether similar effects can be observed in sentences that codeswitch between the two languages. This study investigates whether attraction effects are found in sentences that switch from English to Spanish. The results of two different online experiments (self-paced reading, L-maze) do not display the expected agreement attraction effects, but an offline task (acceptability judgment) does show agreement attraction effects. These results suggest that while the act of codeswitching can introduce ambiguity during sentence processing (cf. Valdés Kroff & Dussias 2023), agreement attraction effects are still recoverable from offline tasks, which refutes ideas of a "bilingual disadvantage" (cf. Bylund et al. 2023), and demonstrates the importance of utilizing a variety of tasks when investigating bilingual processing. 
-
-<b><ins>3) Generating representations in space with GRIS</ins></b>
-
-(with <a target="_blank" rel="noopener" href="https://johnstarr-ling.github.io/">John R. Starr</a>, <a target="_blank" rel="noopener" href="https://vansky.github.io/">Marten van Schijndel</a>)
-
-<b>Keywords</b>: acceptability, typicality, similarity, paradigm, representations
-
-When conducting experimental research, the research questions are often inherently linked (and limited) to the paradigm that is used. In this paper, we present a new experimental tool -- GRIS (Generating Representations in Space) -- that builds experiments where participants can manipulate objects on a screen. Through a series of three experiments on sentence acceptability, category typicality, and multi-dimensional similarity, we demonstrate how GRIS-based experiments allow cognitive scientists to approximate representational spaces for a variety of cognitive phenomena, expanding the set of possible research questions that cognitive scientists may ask. The GitHub repo is available <a target="_blank" rel="noopener" href="https://github.com/johnstarr-ling/gris-toolkit">here</a>.
-
-Accepted to <a target="_blank" rel="noopener" href = "https://cognitivesciencesociety.org/cogsci-2025/">CogSci 2025</a>. 
 
 # Past Projects 
 
