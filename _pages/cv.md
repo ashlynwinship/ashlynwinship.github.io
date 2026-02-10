@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full document available <a target="_blank" rel="noopener" href="/files/CV_012626.pdf">here</a> (last updated 01/26/2026).
+Full document available <a target="_blank" rel="noopener" href="/files/CV_021026.pdf">here</a> (last updated 02/10/2026).
 
 Education
 ======
@@ -75,7 +75,7 @@ Work experience
 
 Skills
 ======
-* Languages: English (native), Spanish (intermediate/conversational)
+* Languages: English (native), Spanish (intermediate/conversational), American Sign Language (beginner)
 * Programming: Python (NumPy, pandas, transformers, PyTorch), R
 * Linguistics tools: PCIbex
   
