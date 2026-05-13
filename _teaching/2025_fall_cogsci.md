@@ -1,7 +1,7 @@
 ---
 title: "Writing in the Major: Introduction to Cognitive Science, COGST 1104 (Fall 2025)"
 collection: teaching
-type: "Graduate Teaching Assistant"
+type: "Instructor of Record"
 permalink: /teaching/2025_fall_cogsci
 venue: "Cornell University, Cognitive Science Program"
 date: 2025-08-21
@@ -21,7 +21,7 @@ Writing in the Major (WIM) is a special section of the course Introduction to Co
 
 <b>Responsibilities:</b> 
 <ul>
-  <li> Teaching the weekly WIM section of the course Introduction to Cognitive Science </li>
+  <li> Designing and teaching the weekly WIM section of the course Introduction to Cognitive Science </li>
   <li> Instructing students in methods of critical analysis and scientific writing </li>
   <li> Grading and providing feedback on student writing </li>
 </ul>
