@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full document available <a target="_blank" rel="noopener" href="/files/CV_051326.pdf">here</a> (last updated 05/13/2026).
+Full document available <a target="_blank" rel="noopener" href="/files/CV_080926.pdf">here</a> (last updated 05/13/2026).
 
 Education
 ======
@@ -29,7 +29,7 @@ Publications
 ======
 <b>Articles:</b>
 
-* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, under review
+* "Approximating Cognitive Representations Using Space," <i>Open Mind</i>, 2026
 
 <b>Conference Proceedings:</b>
 
@@ -37,9 +37,6 @@ Publications
   
 Presentations
 ======
-<b>Workshops:</b>
-
-* "Experimentally extracting implicit instruments," PEER 2025
 
 <b>Conferences:</b> 
 
@@ -47,6 +44,10 @@ Presentations
 * "Experimentally extracting implicit instruments," CogSci 2025
 * "Generating representations in space with GRIS," CogSci 2025
 * "Experimentally extracting implicit instruments," HSP 2025
+
+<b>Workshops:</b>
+
+* "Experimentally extracting implicit instruments," PEER 2025
   
   
 Teaching
