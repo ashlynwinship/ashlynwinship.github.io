@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Full document available <a target="_blank" rel="noopener" href="/files/CV_0082726.pdf">here</a> (last updated 05/13/2026).
+Full document available <a target="_blank" rel="noopener" href="/files/CV_082726.pdf">here</a> (last updated 08/27/2026).
 
 Education
 ======
